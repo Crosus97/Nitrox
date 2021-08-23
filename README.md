@@ -15,6 +15,7 @@ An open-source, multiplayer modification for the game <a href="https://unknownwo
 The mod is in the very early stages of development; however, a solid foundation has been laid for the community to iterate on.
 The following milestones have been completed:
 
+* Pirate Support
 * Client / Server Communication
 * Player movement
 * Picking up / Dropping item syncing
